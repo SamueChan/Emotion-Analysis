@@ -2,7 +2,7 @@
 
 语言：python 2.7
 
-软件：pychrm
+软件：pycharm
 
 项目简介：Emotion-Analysis.pdf
 
