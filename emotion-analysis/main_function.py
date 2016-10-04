@@ -1,8 +1,5 @@
 # -*- coding:utf-8 -*-
 
-'''
-Author:Samuel Chan
-'''
 
 import jieba
 import pandas as pd
