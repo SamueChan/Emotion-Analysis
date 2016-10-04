@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 
 '''
-Author:Samuel Chan
 
 This file contain code to clean the raw data and save the data as csv format.
 For training set, the first column represents the label; the second column represents the text.
